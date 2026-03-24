@@ -12,6 +12,4 @@ console.log(square(10));
 let a=function (a){
     return a*a;
 }
-
-
 console.log(a(10));

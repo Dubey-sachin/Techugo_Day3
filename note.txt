@@ -1,0 +1,10 @@
+Function Declaration:- 
+1.function delcaration means defining  function with function keyword and function name 
+2.it allows hoisting. it means we can use before defining
+
+Function Expression:-
+1.function Expression means defining  function with function keyword and without function name
+2.we can pass the function expression in another function
+3. it is not hoisted;
+4. we can assign the function in a variable
+
