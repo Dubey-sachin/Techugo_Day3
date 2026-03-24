@@ -8,3 +8,40 @@ Function Expression:-
 3. it is not hoisted;
 4. we can assign the function in a variable
 
+Arrow Function:-
+1.arrow function is shorter way to write funtions
+2.it uses => syntax;
+3.arrow function does not have function key
+
+Parameters and return values:-
+Return values:-
+1.return value or statment is a point where function finihes its execution
+2.after return function run control come out of function and it gives results to the caller;
+3.Anything after return statement it will not executed
+4. return ka matlab hota hai exit + output
+5.we return array, object Anything
+
+paramters:-
+1.parametrs are the variable in function difination
+2.types of parametrs are
+a.required parameter :- function expext exact no. of parametr from function call otherwise it will make undefined
+b.default:- default values are assign
+c. rest parameter: this uses rest operator to caputre all values 
+d.destructured: we can use destructuring to get the passed values;
+e.passing function as parameter; 
+
+scope: scope detemines where variable can be used or accesd
+
+global scope and local scope:-
+
+A global variable is a variable that is decalred outside any function or block
+A local variable is variable that is decalred inside a function;
+
+block and lexical scope:-
+block scope refers to a variable decalred with let or const in a block {} 
+
+lexical scope refers to a variable declared inside the function and can only be accessed inside that block or nested block
+
+Hoisting:-
+1. hoisting refers to the behaviour where javascript moves the Declaration of  function and variable class to the top;
+2. var varible are hoisted with undefined
