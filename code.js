@@ -88,7 +88,7 @@ for(let i=0; i<=strinSize-1; i++)
         count++;
     }
 }
-console.log(count);
+console.log(count) ;
 
 }
 
